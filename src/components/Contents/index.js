@@ -83,7 +83,7 @@ function Contents(props) {
         onClick={() => scrollToTop()}
         style={{
           visibility: `${
-            scrollDimensions.scrollY > 800 ? "visible" : "hidden"
+            scrollDimensions.scrollY > 801 ? "visible" : "hidden"
           }`,
         }}
       >
