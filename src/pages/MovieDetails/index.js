@@ -1,5 +1,5 @@
 import moment from "moment";
-import React, { useEffect } from "react";
+import React from "react";
 import { MdClose } from "react-icons/md";
 import { useDispatch } from "react-redux";
 import styled, { keyframes } from "styled-components";
